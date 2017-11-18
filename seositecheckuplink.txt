@@ -1,0 +1,37 @@
+
+Seo Website tool CheckUP - Links
+https://seositecheckup.com/
+https://www.woorank.com
+https://www.site-analyzer.com/
+https://iwebchk.com
+http://app.upcity.com/free-tools/seo-report-card
+https://website.grader.com/
+http://mysiteauditor.com/
+https://zadroweb.com/seo-auditor/
+https://www.seoptimer.com/
+https://www.lipperhey.com/en/
+
+Seo Ranks checker
+https://serps.com/tools/rank-checker/
+https://www.seocentro.com/tools/search-engines/keyword-position.html
+
+
+Seo important meta
+https://ranjeetseoexpert.blogspot.in/2015/12/what-is-website-analysis-how-to.html?m=1
+
+<title>site Title | More</title>
+<meta name="description" content="Describe site details" />
+<meta name="robots" content="noodp/Noindex/index/Nofollow/follow/Noimageindex/None/Noarchive/Nocache/Nosnippet/Noodyp/noydir [OBSOLETE]:/Unavailable_after" />   //Indexation-controlling parameters:
+<meta name="keywords" content="keywords of the site"></meta>
+<link rel="canonical" href="Page Link" />
+<meta name="author" content="sitename"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="twitter title" />
+<meta name="twitter:description" content="description" />
+<meta name="twitter:url" content="twitterurl" />
+
+Google Tool.
+1. site varification -- GoogleWebmastertool.
+2. Google Analytics
